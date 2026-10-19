@@ -1,5 +1,4 @@
 
-
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
@@ -45,5 +44,3 @@ dependencies {
     implementation("androidx.media3:media3-effect:1.8.0")
     implementation("androidx.media3:media3-common:1.8.0")
 }
-
-
